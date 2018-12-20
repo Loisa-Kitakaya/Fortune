@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Version=1.0
+Name=fortunes
+Comment=Get your fortunes!
+Exec=/home/loisa/Desktop/Python/Fortune/dist/fortune_script/fortune_script
+Icon=/home/loisa/Desktop/Python/Fortune/dist/fortune_script/icon.jpg
+Terminal=true
